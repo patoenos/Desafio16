@@ -1,0 +1,14 @@
+[
+	{
+		"username": "antonio@micasa.com",
+		"localTs": "14/07/2022, 00:21:44",
+		"message": "Que hongo",
+		"id": 1
+	},
+	{
+		"username": "analaura@sucasa.com",
+		"localTs": "14/07/2022, 00:22:00",
+		"message": "Que hubooooooo",
+		"id": 2
+	}
+]
